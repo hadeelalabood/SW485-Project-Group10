@@ -1,7 +1,7 @@
 # CareerPilot_AI
 
-Students:
 
+## Students Name:
 
 1-Hadeel Alabood
 
@@ -14,7 +14,7 @@ Students:
 5-Ghaida alhusain
 
 
-project motivation:
+## Project Motivation:
 
 In today’s competitive job market, job seekers often face frustration and uncertainty in finding the right opportunities that align with their skills, experience, and career aspirations. At the same time, employers struggle to identify top talent efficiently, leading to missed opportunities on both sides.
 
