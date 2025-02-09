@@ -9,7 +9,7 @@
 
 3-Lama Alangari-443200900, worked in The goal of the dataset
 
-4-Tahani Alhantushi-443201032, worked in Information about your project
+4-Tahani Alhantushi-443201032, worked in Information about project
 
 5-Ghaida alhusain-443200822, worked in Summary of the dataset
 
