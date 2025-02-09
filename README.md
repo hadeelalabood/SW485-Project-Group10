@@ -1,17 +1,17 @@
 # CareerPilot_AI
 
 
-## Students Name:
+## Students Information:
 
-1-Hadeel Alabood
+1-Hadeel Alabood-443201251, worked in Preprocessing techniques
 
-2-Aseel Daod
+2-Aseel Daod-443200786, worked in General information
 
-3-Lama Alangari
+3-Lama Alangari-443200900, worked in The goal of the dataset
 
-4-Tahani Alhantushi
+4-Tahani Alhantushi-443201032, worked in Information about your project
 
-5-Ghaida alhusain
+5-Ghaida alhusain-443200822, worked in Summary of the dataset
 
 
 ## Project Motivation:
